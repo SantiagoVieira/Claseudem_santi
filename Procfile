@@ -1,1 +1,1 @@
-web: pythin -m http.server $PORT
+web: python -m http.server $PORT
